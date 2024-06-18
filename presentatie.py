@@ -11,4 +11,5 @@ def presenteer(mijn_dict1,totaal):
     print(f"==========================")
     return (f"Totaal: {totaal} euro") 
     
-print(presenteer(mijn_dict1,totaal))
+print(presenteer(mijn_dict1,totaal)) 
+'''test'''
